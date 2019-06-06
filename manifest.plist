@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>${BUNDLE_IDENTIFIER}</string>
+				<string>io.ttmc.ttmcwallet</string>
 				<key>bundle-version</key>
-				<string>${APPLICATION_VERSION}</string>
+				<string>0.9.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>${DISPLAY_NAME}</string>
+				<string>TTMC Wallet</string>
 			</dict>
 		</dict>
 	</array>
